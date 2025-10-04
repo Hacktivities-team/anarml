@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anarml/static/css/main.4f3b6a6a.css",
+    "main.js": "/anarml/static/js/main.aa9221e2.js",
+    "index.html": "/anarml/index.html",
+    "main.4f3b6a6a.css.map": "/anarml/static/css/main.4f3b6a6a.css.map",
+    "main.aa9221e2.js.map": "/anarml/static/js/main.aa9221e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f3b6a6a.css",
+    "static/js/main.aa9221e2.js"
+  ]
+}

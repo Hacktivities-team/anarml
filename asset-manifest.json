@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/anarml/static/css/main.4f3b6a6a.css",
+    "main.css": "/anarml/static/css/main.ebc4000c.css",
     "main.js": "/anarml/static/js/main.52a53626.js",
     "index.html": "/anarml/index.html",
-    "main.4f3b6a6a.css.map": "/anarml/static/css/main.4f3b6a6a.css.map",
+    "main.ebc4000c.css.map": "/anarml/static/css/main.ebc4000c.css.map",
     "main.52a53626.js.map": "/anarml/static/js/main.52a53626.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f3b6a6a.css",
+    "static/css/main.ebc4000c.css",
     "static/js/main.52a53626.js"
   ]
 }
